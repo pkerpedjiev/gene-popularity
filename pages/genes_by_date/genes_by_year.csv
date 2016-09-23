@@ -1,0 +1,321 @@
+year	pos	count	geneid	symbol	name
+1998	0	245	31271	w	white
+1998	1	107	34009	wg	wingless
+1998	2	104	33432	dpp	decapentaplegic
+1998	3	83	36240	en	engrailed
+1998	4	82	31293	N	Notch
+1998	5	74	22059	Trp53	transformation related protein 53
+1998	6	72	155971	env	gp160; envelope glycoprotein
+1998	7	65	42737	hh	hedgehog
+1998	8	65	36039	eve	even skipped
+1998	9	60	155871	tat	p14
+1998	10	54	42034	Ubx	Ultrabithorax
+1998	11	53	20423	Shh	sonic hedgehog
+1998	12	52	42313	Dl	Delta
+1998	13	51	16189	Il4	interleukin 4
+1998	14	48	37455	Egfr	Epidermal growth factor receptor
+1998	15	48	31251	per	period
+1998	16	48	31151	arm	armadillo
+1998	17	48	2885	GRB2	growth factor receptor-bound protein 2
+1998	18	47	14102	Fas	Fas (TNF receptor superfamily member 6)
+1998	19	45	37655	twi	twist
+1999	0	278	31271	w	white
+1999	1	127	34009	wg	wingless
+1999	2	101	31293	N	Notch
+1999	3	94	33432	dpp	decapentaplegic
+1999	4	94	22059	Trp53	transformation related protein 53
+1999	5	92	155971	env	gp160; envelope glycoprotein
+1999	6	81	36240	en	engrailed
+1999	7	81	20423	Shh	sonic hedgehog
+1999	8	74	155871	tat	p14
+1999	9	70	36039	eve	even skipped
+1999	10	67	31151	arm	armadillo
+1999	11	66	21926	Tnf	tumor necrosis factor
+1999	12	66	11816	Apoe	apolipoprotein E
+1999	13	62	42737	hh	hedgehog
+1999	14	62	42313	Dl	Delta
+1999	15	62	15978	Ifng	interferon gamma
+1999	16	57	42034	Ubx	Ultrabithorax
+1999	17	56	37455	Egfr	Epidermal growth factor receptor
+1999	18	56	16189	Il4	interleukin 4
+1999	19	54	14179	Fgf8	fibroblast growth factor 8
+2000	0	207	31271	w	white
+2000	1	127	34009	wg	wingless
+2000	2	104	33432	dpp	decapentaplegic
+2000	3	90	31293	N	Notch
+2000	4	88	22059	Trp53	transformation related protein 53
+2000	5	86	36240	en	engrailed
+2000	6	80	42737	hh	hedgehog
+2000	7	79	155971	env	gp160; envelope glycoprotein
+2000	8	75	11816	Apoe	apolipoprotein E
+2000	9	66	31151	arm	armadillo
+2000	10	66	7157	TP53	tumor protein p53
+2000	11	61	42313	Dl	Delta
+2000	12	60	37455	Egfr	Epidermal growth factor receptor
+2000	13	60	36039	eve	even skipped
+2000	14	56	20423	Shh	sonic hedgehog
+2000	15	54	31251	per	period
+2000	16	54	31000	elav	embryonic lethal abnormal vision
+2000	17	51	155871	tat	p14
+2000	18	51	43767	ci	cubitus interruptus
+2000	19	51	18127	Nos3	nitric oxide synthase 3, endothelial cell
+2001	0	186	31271	w	white
+2001	1	147	348	APOE	apolipoprotein E
+2001	2	128	1636	ACE	angiotensin I converting enzyme
+2001	3	119	4524	MTHFR	methylenetetrahydrofolate reductase (NAD(P)H)
+2001	4	106	7157	TP53	tumor protein p53
+2001	5	103	34009	wg	wingless
+2001	6	102	7124	TNF	tumor necrosis factor
+2001	7	99	33432	dpp	decapentaplegic
+2001	8	96	155971	env	gp160; envelope glycoprotein
+2001	9	94	3123	HLA-DRB1	major histocompatibility complex, class II, DR beta 1
+2001	10	92	22059	Trp53	transformation related protein 53
+2001	11	88	31293	N	Notch
+2001	12	85	1234	CCR5	chemokine (C-C motif) receptor 5 (gene/pseudogene)
+2001	13	79	36240	en	engrailed
+2001	14	78	11816	Apoe	apolipoprotein E
+2001	15	72	3119	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1
+2001	16	70	3106	HLA-B	major histocompatibility complex, class I, B
+2001	17	68	42737	hh	hedgehog
+2001	18	68	2944	GSTM1	glutathione S-transferase mu 1
+2001	19	68	672	BRCA1	breast cancer 1, early onset
+2002	0	334	7157	TP53	tumor protein p53
+2002	1	276	7124	TNF	tumor necrosis factor
+2002	2	226	348	APOE	apolipoprotein E
+2002	3	212	31271	w	white
+2002	4	180	3123	HLA-DRB1	major histocompatibility complex, class II, DR beta 1
+2002	5	163	1636	ACE	angiotensin I converting enzyme
+2002	6	146	22059	Trp53	transformation related protein 53
+2002	7	140	672	BRCA1	breast cancer 1, early onset
+2002	8	134	4524	MTHFR	methylenetetrahydrofolate reductase (NAD(P)H)
+2002	9	134	3569	IL6	interleukin 6
+2002	10	131	2099	ESR1	estrogen receptor 1
+2002	11	128	7040	TGFB1	transforming growth factor, beta 1
+2002	12	125	7422	VEGFA	vascular endothelial growth factor A
+2002	13	122	3119	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1
+2002	14	117	3586	IL10	interleukin 10
+2002	15	114	21926	Tnf	tumor necrosis factor
+2002	16	113	34009	wg	wingless
+2002	17	109	2944	GSTM1	glutathione S-transferase mu 1
+2002	18	107	3553	IL1B	interleukin 1, beta
+2002	19	106	5594	MAPK1	mitogen-activated protein kinase 1
+2003	0	337	7157	TP53	tumor protein p53
+2003	1	275	7124	TNF	tumor necrosis factor
+2003	2	209	348	APOE	apolipoprotein E
+2003	3	164	3569	IL6	interleukin 6
+2003	4	163	31271	w	white
+2003	5	163	4524	MTHFR	methylenetetrahydrofolate reductase (NAD(P)H)
+2003	6	160	3123	HLA-DRB1	major histocompatibility complex, class II, DR beta 1
+2003	7	152	1636	ACE	angiotensin I converting enzyme
+2003	8	142	22059	Trp53	transformation related protein 53
+2003	9	137	7422	VEGFA	vascular endothelial growth factor A
+2003	10	137	7040	TGFB1	transforming growth factor, beta 1
+2003	11	132	7316	UBC	ubiquitin C
+2003	12	132	3586	IL10	interleukin 10
+2003	13	127	2099	ESR1	estrogen receptor 1
+2003	14	122	3553	IL1B	interleukin 1, beta
+2003	15	122	672	BRCA1	breast cancer 1, early onset
+2003	16	120	1956	EGFR	epidermal growth factor receptor
+2003	17	116	21926	Tnf	tumor necrosis factor
+2003	18	116	5743	PTGS2	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+2003	19	109	2944	GSTM1	glutathione S-transferase mu 1
+2004	0	345	7157	TP53	tumor protein p53
+2004	1	297	7124	TNF	tumor necrosis factor
+2004	2	257	348	APOE	apolipoprotein E
+2004	3	197	1636	ACE	angiotensin I converting enzyme
+2004	4	192	3123	HLA-DRB1	major histocompatibility complex, class II, DR beta 1
+2004	5	185	4524	MTHFR	methylenetetrahydrofolate reductase (NAD(P)H)
+2004	6	166	31271	w	white
+2004	7	165	7422	VEGFA	vascular endothelial growth factor A
+2004	8	164	3569	IL6	interleukin 6
+2004	9	162	7040	TGFB1	transforming growth factor, beta 1
+2004	10	161	7316	UBC	ubiquitin C
+2004	11	157	22059	Trp53	transformation related protein 53
+2004	12	153	2944	GSTM1	glutathione S-transferase mu 1
+2004	13	151	2099	ESR1	estrogen receptor 1
+2004	14	135	3553	IL1B	interleukin 1, beta
+2004	15	132	2952	GSTT1	glutathione S-transferase theta 1
+2004	16	131	3586	IL10	interleukin 10
+2004	17	127	15978	Ifng	interferon gamma
+2004	18	125	3119	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1
+2004	19	122	21926	Tnf	tumor necrosis factor
+2005	0	384	7157	TP53	tumor protein p53
+2005	1	320	7124	TNF	tumor necrosis factor
+2005	2	251	348	APOE	apolipoprotein E
+2005	3	215	4524	MTHFR	methylenetetrahydrofolate reductase (NAD(P)H)
+2005	4	195	22059	Trp53	transformation related protein 53
+2005	5	187	3123	HLA-DRB1	major histocompatibility complex, class II, DR beta 1
+2005	6	186	3569	IL6	interleukin 6
+2005	7	185	7316	UBC	ubiquitin C
+2005	8	175	7040	TGFB1	transforming growth factor, beta 1
+2005	9	168	1636	ACE	angiotensin I converting enzyme
+2005	10	162	2099	ESR1	estrogen receptor 1
+2005	11	151	31271	w	white
+2005	12	149	7422	VEGFA	vascular endothelial growth factor A
+2005	13	148	1956	EGFR	epidermal growth factor receptor
+2005	14	147	3586	IL10	interleukin 10
+2005	15	147	2944	GSTM1	glutathione S-transferase mu 1
+2005	16	135	15978	Ifng	interferon gamma
+2005	17	131	3553	IL1B	interleukin 1, beta
+2005	18	125	14910	Gt(ROSA)26Sor	gene trap ROSA 26, Philippe Soriano
+2005	19	124	21926	Tnf	tumor necrosis factor
+2006	0	400	7157	TP53	tumor protein p53
+2006	1	310	7124	TNF	tumor necrosis factor
+2006	2	234	348	APOE	apolipoprotein E
+2006	3	226	4524	MTHFR	methylenetetrahydrofolate reductase (NAD(P)H)
+2006	4	217	7316	UBC	ubiquitin C
+2006	5	198	22059	Trp53	transformation related protein 53
+2006	6	191	3569	IL6	interleukin 6
+2006	7	184	31271	w	white
+2006	8	173	7422	VEGFA	vascular endothelial growth factor A
+2006	9	173	1636	ACE	angiotensin I converting enzyme
+2006	10	170	1956	EGFR	epidermal growth factor receptor
+2006	11	168	7040	TGFB1	transforming growth factor, beta 1
+2006	12	158	3123	HLA-DRB1	major histocompatibility complex, class II, DR beta 1
+2006	13	153	2099	ESR1	estrogen receptor 1
+2006	14	152	14910	Gt(ROSA)26Sor	gene trap ROSA 26, Philippe Soriano
+2006	15	149	21898	Tlr4	toll-like receptor 4
+2006	16	145	3586	IL10	interleukin 10
+2006	17	143	5743	PTGS2	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+2006	18	142	2944	GSTM1	glutathione S-transferase mu 1
+2006	19	138	3553	IL1B	interleukin 1, beta
+2007	0	553	7157	TP53	tumor protein p53
+2007	1	393	7124	TNF	tumor necrosis factor
+2007	2	274	348	APOE	apolipoprotein E
+2007	3	261	7422	VEGFA	vascular endothelial growth factor A
+2007	4	255	14910	Gt(ROSA)26Sor	gene trap ROSA 26, Philippe Soriano
+2007	5	251	1956	EGFR	epidermal growth factor receptor
+2007	6	244	7316	UBC	ubiquitin C
+2007	7	243	4524	MTHFR	methylenetetrahydrofolate reductase (NAD(P)H)
+2007	8	242	7040	TGFB1	transforming growth factor, beta 1
+2007	9	238	3123	HLA-DRB1	major histocompatibility complex, class II, DR beta 1
+2007	10	226	3569	IL6	interleukin 6
+2007	11	222	22059	Trp53	transformation related protein 53
+2007	12	190	21926	Tnf	tumor necrosis factor
+2007	13	186	672	BRCA1	breast cancer 1, early onset
+2007	14	182	3586	IL10	interleukin 10
+2007	15	177	2099	ESR1	estrogen receptor 1
+2007	16	175	21898	Tlr4	toll-like receptor 4
+2007	17	171	3553	IL1B	interleukin 1, beta
+2007	18	170	15978	Ifng	interferon gamma
+2007	19	168	4790	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
+2008	0	606	7157	TP53	tumor protein p53
+2008	1	434	7124	TNF	tumor necrosis factor
+2008	2	346	14910	Gt(ROSA)26Sor	gene trap ROSA 26, Philippe Soriano
+2008	3	332	7422	VEGFA	vascular endothelial growth factor A
+2008	4	327	348	APOE	apolipoprotein E
+2008	5	326	3569	IL6	interleukin 6
+2008	6	325	1956	EGFR	epidermal growth factor receptor
+2008	7	288	4524	MTHFR	methylenetetrahydrofolate reductase (NAD(P)H)
+2008	8	274	7040	TGFB1	transforming growth factor, beta 1
+2008	9	252	7316	UBC	ubiquitin C
+2008	10	230	2099	ESR1	estrogen receptor 1
+2008	11	219	207	AKT1	v-akt murine thymoma viral oncogene homolog 1
+2008	12	216	22059	Trp53	transformation related protein 53
+2008	13	216	3586	IL10	interleukin 10
+2008	14	211	3553	IL1B	interleukin 1, beta
+2008	15	208	1029	CDKN2A	cyclin-dependent kinase inhibitor 2A
+2008	16	205	3123	HLA-DRB1	major histocompatibility complex, class II, DR beta 1
+2008	17	204	1401	CRP	C-reactive protein, pentraxin-related
+2008	18	194	5743	PTGS2	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+2008	19	193	9370	ADIPOQ	adiponectin, C1Q and collagen domain containing
+2009	0	672	7157	TP53	tumor protein p53
+2009	1	437	7124	TNF	tumor necrosis factor
+2009	2	386	14910	Gt(ROSA)26Sor	gene trap ROSA 26, Philippe Soriano
+2009	3	360	7422	VEGFA	vascular endothelial growth factor A
+2009	4	350	348	APOE	apolipoprotein E
+2009	5	344	3569	IL6	interleukin 6
+2009	6	334	7316	UBC	ubiquitin C
+2009	7	333	1956	EGFR	epidermal growth factor receptor
+2009	8	317	7040	TGFB1	transforming growth factor, beta 1
+2009	9	310	4524	MTHFR	methylenetetrahydrofolate reductase (NAD(P)H)
+2009	10	259	6532	SLC6A4	solute carrier family 6 (neurotransmitter transporter), member 4
+2009	11	257	3123	HLA-DRB1	major histocompatibility complex, class II, DR beta 1
+2009	12	252	4790	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
+2009	13	240	2099	ESR1	estrogen receptor 1
+2009	14	239	207	AKT1	v-akt murine thymoma viral oncogene homolog 1
+2009	15	237	3586	IL10	interleukin 10
+2009	16	233	3553	IL1B	interleukin 1, beta
+2009	17	228	22059	Trp53	transformation related protein 53
+2009	18	215	672	BRCA1	breast cancer 1, early onset
+2009	19	213	3091	HIF1A	hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+2010	0	660	7157	TP53	tumor protein p53
+2010	1	483	14910	Gt(ROSA)26Sor	gene trap ROSA 26, Philippe Soriano
+2010	2	440	7124	TNF	tumor necrosis factor
+2010	3	366	7316	UBC	ubiquitin C
+2010	4	361	348	APOE	apolipoprotein E
+2010	5	360	1956	EGFR	epidermal growth factor receptor
+2010	6	348	7422	VEGFA	vascular endothelial growth factor A
+2010	7	333	3569	IL6	interleukin 6
+2010	8	309	7040	TGFB1	transforming growth factor, beta 1
+2010	9	302	4524	MTHFR	methylenetetrahydrofolate reductase (NAD(P)H)
+2010	10	258	4790	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
+2010	11	248	3586	IL10	interleukin 10
+2010	12	236	2099	ESR1	estrogen receptor 1
+2010	13	233	22059	Trp53	transformation related protein 53
+2010	14	231	207	AKT1	v-akt murine thymoma viral oncogene homolog 1
+2010	15	227	351	APP	amyloid beta (A4) precursor protein
+2010	16	222	3123	HLA-DRB1	major histocompatibility complex, class II, DR beta 1
+2010	17	217	3091	HIF1A	hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+2010	18	214	4318	MMP9	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+2010	19	209	672	BRCA1	breast cancer 1, early onset
+2011	0	639	7157	TP53	tumor protein p53
+2011	1	591	14910	Gt(ROSA)26Sor	gene trap ROSA 26, Philippe Soriano
+2011	2	366	1956	EGFR	epidermal growth factor receptor
+2011	3	360	7316	UBC	ubiquitin C
+2011	4	328	7422	VEGFA	vascular endothelial growth factor A
+2011	5	306	7124	TNF	tumor necrosis factor
+2011	6	276	3569	IL6	interleukin 6
+2011	7	275	22059	Trp53	transformation related protein 53
+2011	8	249	7040	TGFB1	transforming growth factor, beta 1
+2011	9	248	351	APP	amyloid beta (A4) precursor protein
+2011	10	232	207	AKT1	v-akt murine thymoma viral oncogene homolog 1
+2011	11	224	4790	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
+2011	12	217	348	APOE	apolipoprotein E
+2011	13	210	3091	HIF1A	hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+2011	14	207	4318	MMP9	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+2011	15	195	21898	Tlr4	toll-like receptor 4
+2011	16	189	155971	env	gp160; envelope glycoprotein
+2011	17	188	12387	Ctnnb1	catenin (cadherin associated protein), beta 1
+2011	18	188	2064	ERBB2	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 2
+2011	19	181	6774	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)
+2012	0	670	14910	Gt(ROSA)26Sor	gene trap ROSA 26, Philippe Soriano
+2012	1	567	7157	TP53	tumor protein p53
+2012	2	375	1956	EGFR	epidermal growth factor receptor
+2012	3	365	7316	UBC	ubiquitin C
+2012	4	310	7124	TNF	tumor necrosis factor
+2012	5	309	7422	VEGFA	vascular endothelial growth factor A
+2012	6	273	3569	IL6	interleukin 6
+2012	7	255	22059	Trp53	transformation related protein 53
+2012	8	255	7040	TGFB1	transforming growth factor, beta 1
+2012	9	234	351	APP	amyloid beta (A4) precursor protein
+2012	10	221	21898	Tlr4	toll-like receptor 4
+2012	11	214	4318	MMP9	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+2012	12	207	4790	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
+2012	13	201	348	APOE	apolipoprotein E
+2012	14	199	3845	KRAS	Kirsten rat sarcoma viral oncogene homolog
+2012	15	197	207	AKT1	v-akt murine thymoma viral oncogene homolog 1
+2012	16	188	673	BRAF	B-Raf proto-oncogene, serine/threonine kinase
+2012	17	185	3091	HIF1A	hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+2012	18	183	2064	ERBB2	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 2
+2012	19	179	4524	MTHFR	methylenetetrahydrofolate reductase (NAD(P)H)
+2013	0	767	14910	Gt(ROSA)26Sor	gene trap ROSA 26, Philippe Soriano
+2013	1	570	7157	TP53	tumor protein p53
+2013	2	412	1956	EGFR	epidermal growth factor receptor
+2013	3	384	7316	UBC	ubiquitin C
+2013	4	319	7124	TNF	tumor necrosis factor
+2013	5	304	7422	VEGFA	vascular endothelial growth factor A
+2013	6	283	3569	IL6	interleukin 6
+2013	7	266	22059	Trp53	transformation related protein 53
+2013	8	250	7040	TGFB1	transforming growth factor, beta 1
+2013	9	234	3091	HIF1A	hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+2013	10	225	2064	ERBB2	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 2
+2013	11	207	207	AKT1	v-akt murine thymoma viral oncogene homolog 1
+2013	12	203	6774	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)
+2013	13	199	351	APP	amyloid beta (A4) precursor protein
+2013	14	192	4318	MMP9	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+2013	15	191	348	APOE	apolipoprotein E
+2013	16	189	4790	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
+2013	17	184	155971	env	gp160; envelope glycoprotein
+2013	18	184	3845	KRAS	Kirsten rat sarcoma viral oncogene homolog
+2013	19	182	21898	Tlr4	toll-like receptor 4

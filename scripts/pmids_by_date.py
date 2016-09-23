@@ -2,6 +2,7 @@
 
 import datetime as dt
 import os.path as op
+import re
 import sys
 import urllib
 from optparse import OptionParser
@@ -17,7 +18,7 @@ def main():
     #parser.add_option('-u', '--useless', dest='uselesss', default=False, action='store_true', help='Another useless option')
     parser.add_option('-s', '--startdate', dest='start_date', default='2014/01/01', help='The lower end of the date range to search (YYYY/MM/DD)', type='str')
     parser.add_option('-e', '--enddate', dest='end_date', default='2014/01/01', help='The upper range of the date range to search (YYYY/MM/DD)', type='str')
-    parser.add_options('-o', '--output-dir', dest=output_dir, default='./data/pmid_by_date', helpt='The directory to dump all the files')
+    parser.add_option('-o', '--output-dir', dest='output_dir', default='./data/pmid_by_date', help='The directory to dump all the files')
 
     (options, args) = parser.parse_args()
 
@@ -33,15 +34,22 @@ def main():
         curr_date_str = dt.datetime.strftime(curr_date, '%Y/%m/%d')
         curr_date += dt.timedelta(days=1)
 
-        output_file = op.join(args.output_dir,
-                              "{}.xml".format(dt.datetime.strftime(curr_date, '%Y_%m_%d')))
+        output_file = op.join(options.output_dir,
+                              "{}.ssv".format(dt.datetime.strftime(curr_date, '%Y_%m_%d')))
         link = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&mindate={0}&maxdate={0}&retmax=100000".format(curr_date_str)
-        f = urllib.urlopen(link)
+        fin = urllib.urlopen(link)
 
-        with open(output_file, 'w') as fout:
-            fout.write(f.read())
+        text = fin.read()
+        all_pmids = re.finditer(r"<Id>(?P<pmid>[0-9]+)</Id>", text)
+        out_str = ""
+        for pmid_match in all_pmids:
+            out_str += curr_date_str.replace('/','-') + " " + pmid_match.group('pmid') + "\n"
 
-        print output_file
+        if len(out_str) > 0:
+            with open(output_file, 'w') as fout:
+                fout.write(out_str)
+
+                print output_file
 
 if __name__ == '__main__':
     main()

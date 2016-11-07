@@ -1,2 +1,4 @@
-rm ~/data/pmid_by_date/*
-python scripts/pmids_by_date.py --startdate 1900/01/01 --enddate 2016/09/01 --output-dir ~/data/pmid_by_date
+Download the gene annotations:
+
+scp pkerp@fluidspace.tbi.univie.ac.at:/scr/fluidspace/pkerp/projects/goomba/output/genes_by_popularity.tsv data/
+sort -n data/genes_by_popularity.tsv | head -n 2000  > data/sorted_genes_by_popularity.tsv
